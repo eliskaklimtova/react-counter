@@ -1,0 +1,22 @@
+.wrapper {
+  font-family: sans-serif;
+  font-size: 48px;
+  text-align: center;
+  margin: 70px auto;
+}
+
+button {
+  width: 90px;
+  padding: 10px;
+  margin: 50px 5px 30px 5px;
+  border-radius: 4px;
+  font-size: 18px;
+  border: 3px solid rgb(58, 136, 125);
+  background: rgb(58, 158, 145);
+  color: #fff;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 300;
+}
